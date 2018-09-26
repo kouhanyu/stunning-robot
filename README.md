@@ -1,4 +1,14 @@
 ## Welcome to GitHub Pages
+2013-04 ~ 10 房地产
+2014-03 ~ 11 监理
+2014-12 威斯汀
+2015-01 ~ 2015-03 陕建7
+2015-06 ~ 2016-04 纳美
+2016-05 ~ 2016-09 多迪
+2016-10 ~ 2017-02 天极星
+2016-03 
+2016-04 房产评估
+2017-05 ~ 
 
 You can use the [editor on GitHub](https://github.com/kouhanyu/stunning-robot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
